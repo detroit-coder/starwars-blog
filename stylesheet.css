@@ -1,0 +1,44 @@
+body {
+	background: url(https://breakinggeek.files.wordpress.com/2015/10/star-wars-the-force-awakens-final-trailer-3-kylo-ren-mask-close-up.png) no-repeat center center fixed;
+    -webkit-background-size: cover; 
+    -moz-background-size: cover;    
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+footer {
+	text-align: center;
+	color: white;
+}
+
+div {
+	text-align: center;
+}
+
+#titlePage {
+	color: white;
+	padding: 100px;
+	margin-left: 10%;
+	font-size: 55px;
+}
+
+.row {
+	color: white;
+}
+
+.force {
+	float: left;
+}
+
+.saber {
+	float: left;
+}
+
+.rgone {
+	float: right;
+}
+
+.xwing {
+	float: right;
+}
+
